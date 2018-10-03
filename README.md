@@ -14,3 +14,7 @@ import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.
 [ChineseLocalization 汉化包插件]()<br/>
 [ColorPicker 颜色选择器]()<br/>
 [Color Highlighter]()<br/>
+[iconfiles 文件图标]()<br/>
+[babel es6高亮和语法提示]()<br/>
+[autofilename 自动补全文件名]()<br/>
+
